@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "newapp",
+    "slug": "newapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/labar.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/labar.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/labar.png"
+    },
+    "sourceExts": [ "js", "json", "ts", "tsx", "jsx", "vue"]
+  }
+}

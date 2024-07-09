@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634876617309",
+    "project_id": "loll-78b7a",
+    "storage_bucket": "loll-78b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634876617309:android:571d0a2b2dfc6454cc63b4",
+        "android_client_info": {
+          "package_name": "ua.com.reactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiTKT4wmkjlf4zM8Z3wLgL8taXWRR45jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
